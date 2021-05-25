@@ -1,0 +1,10 @@
+name: BetterReload
+version: ${project.version}
+main: eu.zzagro.betterreload.BetterReload
+commands:
+  server:
+  betterreload:
+  settimer:
+
+depend:
+  - ILibrary

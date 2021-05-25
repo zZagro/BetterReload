@@ -1,0 +1,11 @@
+Prefix: '&bBetterReload &7>>'
+NoPermission: '&cYou do not have the required permission!'
+ShutdownTimerInSeconds: 10
+PlayerUnableToJoinTime: 20
+ServerReloadAnnouncement: '&cServer reloading in %seconds% seconds!'
+KickMessage: '&cThe Server is reloading!'
+Permissions:
+  BetterReload: 'betterreload.betterreload'
+  ServerReload: 'betterreload.serverreload'
+  SetTimer: 'betterreload.settimer'
+  JoinBypass: 'betterreload.joinbypass'
